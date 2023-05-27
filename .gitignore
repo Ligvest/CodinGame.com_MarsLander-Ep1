@@ -1,1 +1,9 @@
+# .vs/ is a temporary and auto-generated folder. So get rid of it in repo
 .vs/
+
+# Needed if the poject is migrated from VS2008
+*.vcxproj.user
+
+# Build folders
+x64/
+x86/
